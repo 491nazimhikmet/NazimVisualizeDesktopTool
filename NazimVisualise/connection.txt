@@ -1,0 +1,1 @@
+jdbc:mysql://localhost/db_nazim_hikmet?useUnicode=true&characterEncoding=utf8
